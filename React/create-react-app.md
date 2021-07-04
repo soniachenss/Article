@@ -1,7 +1,7 @@
 1.create-react-app
 2.npm start
 3.报错如下
-
+![Image text](https://github.com/soniachenss/Article/blob/master/img-folder/image.png)
 4.解决：新增 .env 文件，SKIP_PREFLIGHT_CHECK=true
 
 5.在创建 React 项目之后，使用 npm run eject 命令报错：This git repository has untracked files or uncommitted changes
